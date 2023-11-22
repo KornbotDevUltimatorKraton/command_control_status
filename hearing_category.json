@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "category": "General Hearing",
+      "questions": [
+        {
+          "key": "difficulty_quiet_sounds",
+          "question": "Do you have any difficulty hearing quiet sounds?"
+        },
+        {
+          "key": "sudden_changes",
+          "question": "Have you experienced any sudden changes in your hearing?"
+        },
+        {
+          "key": "repeat_conversations",
+          "question": "Do you often ask people to repeat themselves during conversations?"
+        },
+        {
+          "key": "repeat_question",
+          "question": "Can you repeat that again?"
+        }
+      ]
+    },
+    {
+      "category": "Specific Symptoms",
+      "questions": [
+        {
+          "key": "ringing_buzzing",
+          "question": "Have you noticed any ringing or buzzing in your ears?"
+        },
+        {
+          "key": "trouble_noisy_environments",
+          "question": "Do you have trouble hearing in noisy environments?"
+        }
+      ]
+    },
+    {
+      "category": "Medical History",
+      "questions": [
+        {
+          "key": "hearing_test_results",
+          "question": "Have you ever had a hearing test, and if so, what were the results?"
+        },
+        {
+          "key": "use_assistive_devices",
+          "question": "Do you use any hearing aids or assistive devices?"
+        },
+        {
+          "key": "ear_infections",
+          "question": "Have you ever had any ear infections or ear-related issues?"
+        }
+      ]
+    },
+    {
+      "category": "Environmental Factors",
+      "questions": [
+        {
+          "key": "loud_noises_exposure",
+          "question": "Have you been exposed to loud noises or music for extended periods?"
+        }
+      ]
+    },
+    {
+      "category": "Balance and Dizziness",
+      "questions": [
+        {
+          "key": "dizziness_balance_issues",
+          "question": "Do you experience dizziness or balance issues related to your hearing?"
+        }
+      ]
+    }
+  ]
+}
